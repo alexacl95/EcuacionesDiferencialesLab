@@ -11,7 +11,7 @@ Curso: Ecuaciones diferenciales (laboratorio)
 1. Introducción a Matlab: 
 	- [Introducción y software](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/IntroMatlab.html)
 	- [Funciones básicas y gráficos](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/FuncBase.html)
-	- Livescripts y gráficos avanzados 
+	- [Livescripts y gráficos avanzados](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/LiveScripts.html)
 2. Matemáticas simbólicas: 
 	- Introducción al toolbox y funciones básicas
 	- Solución de ecuaciones diferenciales
