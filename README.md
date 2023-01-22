@@ -2,15 +2,16 @@
 
 Docente: Alexandra Catano-Lopez
 
-Curso: Ecuaciones diferenciales
+Curso: Ecuaciones diferenciales (laboratorio)
 
 ![visitors](https://page-views.glitch.me/badge?page_id=alexacl95/EcuacionesDiferencialesLab)
 
 ## Contenidos: 
 
 1. Introducción a Matlab: 
-	- [Estructura base](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/IntroMatlab.html)
-	- Funciones básicas e introducción
+	- [Introducción y software](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/IntroMatlab.html)
+	- [Funciones básicas y gráficos](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/FuncBase.html)
+	- Livescripts y gráficos avanzados 
 2. Matemáticas simbólicas: 
 	- Introducción al toolbox y funciones básicas
 	- Solución de ecuaciones diferenciales
