@@ -13,7 +13,7 @@ Curso: Ecuaciones diferenciales (laboratorio)
 	- [Funciones básicas y gráficos](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/FuncBase.html)
 	- [Livescripts y gráficos avanzados](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/LiveScripts.html)
 2. Matemáticas simbólicas: 
-	- Introducción al toolbox y funciones básicas
+	- [Introducción al toolbox y funciones básicas](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/IntroMathSym.html)
 	- Solución de ecuaciones diferenciales
 3. Solución numérica de ecuaciones diferenciales:
 	- Médotodo de Euler
