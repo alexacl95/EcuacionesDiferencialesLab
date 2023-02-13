@@ -14,7 +14,7 @@ Curso: Ecuaciones diferenciales (laboratorio)
 	- [Livescripts y gráficos avanzados](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/LiveScripts.html)
 2. Matemáticas simbólicas: 
 	- [Introducción al toolbox y funciones básicas](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/IntroMathSym.html)
-	- Solución de ecuaciones diferenciales
+	- [Solución de ecuaciones diferenciales](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/SoluDiff.html)
 3. Solución numérica de ecuaciones diferenciales:
 	- Médotodo de Euler
 	- Médotodo de Runge-Kutta
