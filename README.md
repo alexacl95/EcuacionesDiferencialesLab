@@ -1,6 +1,7 @@
 # Laboratorio de Ecuaciones Diferenciales
 
 Docente: Alexandra Catano-Lopez
+Diseño de elementos del curso: Carlos Mario Vélez
 
 Curso: Ecuaciones diferenciales (laboratorio)
 
