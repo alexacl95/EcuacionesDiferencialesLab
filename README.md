@@ -16,7 +16,7 @@ Curso: Ecuaciones diferenciales (laboratorio)
 2. Matemáticas simbólicas: 
 	- [Introducción al toolbox y funciones básicas](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/IntroMathSym.html)
 	- [Solución de ecuaciones diferenciales](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/SoluDiff.html)
-	- [Ejemplo aplicado](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/)
+	- [Ejemplo aplicado](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/EjemploMasaResorte.html)
 3. Solución numérica de ecuaciones diferenciales:
 	- Médotodo de Euler
 	- Médotodo de Runge-Kutta
