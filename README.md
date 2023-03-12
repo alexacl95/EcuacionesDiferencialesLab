@@ -21,7 +21,7 @@ Curso: Ecuaciones diferenciales (laboratorio)
     - [Solución de ecuaciones diferenciales de orden superior](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/EcuacionesOrdenSuperior.html)
 3. Solución numérica de ecuaciones diferenciales:
 	- Médotodo de Euler
-	- Médotodo de Runge-Kutta
+	- [Médotodo de Runge-Kutta](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/SlnNumericaEDO.html)
 4. Simulink:
 	- Uso de librerías básicas
 	- Uso avanzado	
