@@ -20,16 +20,10 @@ Curso: Ecuaciones diferenciales (laboratorio)
 	- [Ejemplo aplicado](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/EjemploMasaResorte.html)
     - [Solución de ecuaciones diferenciales de orden superior](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/EcuacionesOrdenSuperior.html)
 3. Solución numérica de ecuaciones diferenciales:
-	- Médotodo de Euler
 	- [Médotodo de Runge-Kutta](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/SlnNumericaEDO.html)
-4. Simulink:
-	- Uso de librerías básicas
-	- Uso avanzado	
-5. Simulación de sistemas no lineal:
-	- Pruebas del sistema seleccionado, diseño de experimentos, verificación
-	- Comparación de la respuesta lineal y la no lineal
-6. Retratos de fase y simulación
-7. Linealización
-8. Estabilidad
-9. Simulación de un sistema no lineal con perturbación y ruido
-10. Método del lugar de las raíces con MATLAB
+    - [Modelo Presa-Depredador](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/ModeloPresaDepredador.html)
+4. Retratos de fase y simulación
+5. Linealización
+6. Estabilidad
+7. Simulación de un sistema no lineal con perturbación y ruido
+8. Método del lugar de las raíces con MATLAB
