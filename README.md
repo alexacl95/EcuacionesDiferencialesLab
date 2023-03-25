@@ -22,6 +22,7 @@ Curso: Ecuaciones diferenciales (laboratorio)
 3. Solución numérica de ecuaciones diferenciales:
 	- [Médotodo de Runge-Kutta](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/SlnNumericaEDO.html)
     - [Modelo Presa-Depredador](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/ModeloPresaDepredador.html)
+    - [Modelo SIR](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/ModeloSIR.html)
 4. Retratos de fase y simulación
 5. Linealización
 6. Estabilidad
