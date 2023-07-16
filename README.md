@@ -6,26 +6,39 @@ Diseño de elementos del curso: Carlos Mario Vélez y José Manuel Escorcia
 
 Curso: Ecuaciones diferenciales (laboratorio)
 
-![visitors](https://page-views.glitch.me/badge?page_id=alexacl95/EcuacionesDiferencialesLab)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Falexacl95.github.io%2FEcuacionesDiferencialesLab%2F&label=Visitas&labelColor=%23697689&countColor=%23d9e3f0)
 
 ## Contenidos: 
 
-1. Introducción a Matlab: 
-	- [Introducción y software](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/IntroMatlab.html)
-	- [Funciones básicas y gráficos](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/FuncBase.html)
-	- [Livescripts y gráficos avanzados](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/LiveScripts.html)
-2. Matemáticas simbólicas: 
-	- [Introducción al toolbox y funciones básicas](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/IntroMathSym.html)
-	- [Solución de ecuaciones diferenciales](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/SoluDiff.html) y algunas [soluciones analíticas](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/SolucionesAnaliticasEjemplos.html)
-	- [Ejemplo aplicado](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/EjemploMasaResorte.html)
-    	- [Solución de ecuaciones diferenciales de orden superior](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/EcuacionesOrdenSuperior.html)
-3. Solución numérica de ecuaciones diferenciales:
-	- [Médotodo de Runge-Kutta](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/SlnNumericaEDO.html)
-    	- [Modelo Presa-Depredador](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/ModeloPresaDepredador.html)
-    	- [Modelo SIR](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/ModeloSIR.html)
-    	- [Modelo SIRV](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/ModeloSIRV.html)
-    	- [Modelo climático de Lorenz](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/Lorenz.html)
-	- Péndulo simple
-4. Retratos de fase con la herramienta pplane
-	- [Descargar y tulizar la app en Matlab](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/ExplicacionPplane.html)
+0. [Introducción a Matlab y al curso](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/IntroMatlab.html)
 
+1. [Matlab](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/FuncBase.html) y [gráficos con Livescripts](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/LiveScripts.html)
+
+3. [Matemáticas simbólicas con Matlab](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/IntroMathSym.html)
+
+4. [Solución simbólica con MATLAB de ecuaciones diferenciales de primer orden](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/SoluDiff.html)
+
+5. [Solución simbólica con MATLAB de ecuaciones diferenciales de orden superior](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/EcuacionesOrdenSuperior.html)
+
+6. [Modelo masa-resorte con fricción](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/EjemploMasaResorte.html)
+
+7. Modelo de un circuito eléctrico RLC
+
+8. [Médotodos numéricos](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/SlnNumericaEDO.html)
+    
+9. [Modelo Presa-Depredador](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/ModeloPresaDepredador.html)
+    
+10. [Modelo SIR](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/ModeloSIR.html)
+
+11. Modelo SIRV
+    
+12. [Modelo climático de Lorenz](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/Lorenz.html)
+
+13. Modelo de péndulo simple con fuerza tangencial
+
+14. Método del lugar de raíces con Matlab
+
+15. Extras:
+    - [Pplane en Matlab](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/ExplicacionPplane.html)
+    
+    - Algunas [soluciones analíticas](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/SolucionesAnaliticasEjemplos.html)
