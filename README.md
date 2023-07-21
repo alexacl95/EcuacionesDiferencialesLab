@@ -12,7 +12,9 @@ Curso: Ecuaciones diferenciales (laboratorio)
 
 0. [Introducción a Matlab y al curso](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/IntroMatlab.html)
 
-1. [Matlab](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/FuncBase.html) y [gráficos con Livescripts](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/LiveScripts.html)
+1. [Bases de Matlab](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/FuncBase.html) 
+
+2. [Gráficos con Livescripts](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/LiveScripts.html)
 
 3. [Matemáticas simbólicas con Matlab](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/IntroMathSym.html)
 
@@ -40,5 +42,4 @@ Curso: Ecuaciones diferenciales (laboratorio)
 
 15. Extras:
     - [Pplane en Matlab](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/ExplicacionPplane.html)
-    
-    - Algunas [soluciones analíticas](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/SolucionesAnaliticasEjemplos.html)
+
