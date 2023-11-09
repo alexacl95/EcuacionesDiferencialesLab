@@ -38,7 +38,7 @@ Curso: Ecuaciones diferenciales (laboratorio)
 
 13. Modelo de péndulo simple con fuerza tangencial
 
-14. Método del lugar de raíces con Matlab
+14. [Método del lugar de raíces con Matlab](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/Raices.html)
 
 15. Extras:
     - [Pplane en Matlab](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/ExplicacionPplane.html)
