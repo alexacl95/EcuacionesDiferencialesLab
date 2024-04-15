@@ -34,7 +34,7 @@ Curso: Ecuaciones diferenciales (laboratorio)
 
 11. Modelo SIRV
     
-12. [Modelo climático de Lorenz](https://alexacl95.github.io/EcuacionesDiferencialesLab/HTML/Lorenz.html)
+12. Modelo climático de Lorenz
 
 13. Modelo de péndulo simple con fuerza tangencial
 
